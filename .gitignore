@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Logs e Dados (opcional, se quiser manter o repo limpo)
+logs/*.log
+data/*.csv
+output/*.csv
+
+# Ambientes virtuais
+.env
